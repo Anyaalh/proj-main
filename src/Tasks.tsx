@@ -23,6 +23,7 @@ export const Tasks = (props: TasksPropsType) => {
                     )
                 })}
 
+
                 {/*<li><input type={"checkbox"} checked={props.task[0].isDone}/>{props.task[0].title}</li>*/}
                 {/*<li><input type={"checkbox"} checked={props.task[1].isDone}/>{props.task[1].title}</li>*/}
             </ul>
